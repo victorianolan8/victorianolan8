@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victorianolan8
 - 👀 I’m a Postdoctoral Researcher at the Warnell Schoolf of Forestry, University of Georgia, USA
-- 🌱 My current research is on the convservation and population modelling of Northern Bobwhite across the southern USA. I also have a wide interest in general species distribution modelling and large scale macroecological research questions at the landscape scale.
+- 🌱 My current research is on the convservation and population modelling of Northern Bobwhite across the southern USA. We use a variety of data (point counts, acoustic ARU data, SECR etc.) to monitor bobwhite and predict population changes. I also have a wide interest in general species distribution modelling and large scale macroecological research questions at the landscape scale. 
 - Check out my current publications here --> https://www.researchgate.net/profile/Victoria-Nolan-4 
 - 📫 You can reach me at victorianolan888@gmail.com
 
