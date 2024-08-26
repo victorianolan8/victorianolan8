@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Victoria Nolan: @victorianolan8
-- 👀 I’m a Data Scientist in the College of Medicine at the University of Florida, USA
+- 👀 I’m a Data Scientist in the Department of Surgery at the University of Florida, USA
 - 📝 Check out my publications here --> https://www.researchgate.net/profile/Victoria-Nolan-4 
 - 📫 You can reach me at victorianolan888@gmail.com
 
